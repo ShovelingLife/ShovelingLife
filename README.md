@@ -1,5 +1,5 @@
 ## Who am I? </br>
-I am game developer who is interested in new technology about game developing such as Rendering Pipeline and Game Engine. </br>
+I am a game developer who is interested in new technology about game developing such as Rendering Pipeline and Game Engine. </br>
 Favorite coding style is Hungarian Notation + Snake Case. </br>
 My Youtube channel is https://www.youtube.com/channel/UCMSi6c9rSaEK6UOE9X7vdSw
 
