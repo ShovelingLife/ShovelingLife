@@ -6,7 +6,7 @@ My Youtube channel is https://www.youtube.com/channel/UCMSi6c9rSaEK6UOE9X7vdSw
 ## My skills
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c#%2B%2B&logoColor=white"/></a></br></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShovelingLife&layout=compact"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShovelingLife)](https://github.com/anuraghazra/github-readme-stats)
  <!--START_SECTION:waka-->
  
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShovelingLife)](https://github.com/anuraghazra/github-readme-stats)
