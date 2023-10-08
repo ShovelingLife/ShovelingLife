@@ -11,8 +11,6 @@ I am a game programmer who is interested in the new technology about game develo
 My favorite coding style is Hungarian Notation + Pascal Case. </br>
 My Youtube channel is https://www.youtube.com/channel/UCMSi6c9rSaEK6UOE9X7vdSw
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShovelingLife&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
  <!--START_SECTION:waka-->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShovelingLife)](https://github.com/anuraghazra/github-readme-stats)
   <!--END_SECTION:waka-->
