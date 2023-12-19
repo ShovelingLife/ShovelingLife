@@ -15,6 +15,6 @@ My Youtube channel is https://www.youtube.com/channel/UCMSi6c9rSaEK6UOE9X7vdSw
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShovelingLife)](https://github.com/anuraghazra/github-readme-stats)
   <!--END_SECTION:waka-->
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yj9808)](https://www.acmicpc.net/user/yj9808)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shovelinglife)](https://www.acmicpc.net/user/shovelinglife)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qnfkzhs1998)](https://www.acmicpc.net/user/qnfkzhs1998)
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=ShovelingLife" height="165">
