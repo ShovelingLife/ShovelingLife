@@ -13,8 +13,8 @@ My Youtube channel is https://www.youtube.com/channel/UCMSi6c9rSaEK6UOE9X7vdSw
 
  <!--START_SECTION:waka-->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShovelingLife)](https://github.com/anuraghazra/github-readme-stats)
-</br> </br>
   <!--END_SECTION:waka-->
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qnfkzhs1998)](https://www.acmicpc.net/user/qnfkzhs1998)
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=ShovelingLife" height="165">
+</br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qnfkzhs1998)](https://www.acmicpc.net/user/qnfkzhs1998)
